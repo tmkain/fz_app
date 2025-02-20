@@ -1,0 +1,4 @@
+data_store.csv
+__pycache__/
+.DS_Store
+Thumbs.db
